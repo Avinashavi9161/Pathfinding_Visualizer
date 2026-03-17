@@ -40,7 +40,5 @@ npm run build
 npm run preview
 ```
 
-## CV-ready bullets (copy/paste)
-- Built a Pathfinding Visualizer in TypeScript to compare Dijkstra vs A\* with real-time speed control.
-- Optimized rendering using canvas + dirty-cell redraws and typed-array state to keep interactions smooth on larger grids.
+
 

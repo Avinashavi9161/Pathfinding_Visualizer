@@ -3,8 +3,8 @@
 Compare **Dijkstra vs A\*** side-by-side, control animation speed in real time, and interactively draw obstacles and move start/end nodes. Built with **TypeScript + Vite** and rendered on **Canvas** for smooth performance on larger grids.
 
 ## Demo
-- **Live**: (add GitHub Pages link here after deployment)
-- **Repo**: (add GitHub repo link here)
+- **Live**: https://avinashavi9161.github.io/Pathfinding_Visualizer/
+- **Repo**: https://github.com/Avinashavi9161/Pathfinding_Visualizer
 
 ## Highlights
 - **Algorithm comparison**: run **Dijkstra** and **A\*** in parallel (or run either one solo)
